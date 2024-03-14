@@ -79,3 +79,19 @@ button:hover {
 .signup-link a:hover {
     text-decoration: underline;
 }
+
+/* Existing styles */
+
+.footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #222;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer p {
+    margin: 0;
+}
